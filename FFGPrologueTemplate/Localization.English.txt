@@ -1,0 +1,9 @@
+.,English
+quest.name,FFG Style Prologue Example
+quest.authors,Ewen Cameron
+quest.description,Template Scenario for creating Prologues in the style of the official app.
+UICutsceneFrame.button1,Continue
+UIPrologue_Text.uitext,Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots of text.\n\nOnce more, Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots of text.\n\nAnd again, Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots of text.\n\nOn repeat, Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots of text.\n\nOne last time, Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots and Lots of text.
+UIPrologue_Continue.text,Continue button pressed
+UIPrologue_Continue.button1,Continue
+UIPrologue_Continue.uitext,Continue
